@@ -182,6 +182,8 @@ proxy-groups:
   - Loadbalance AKUN3
   - Loadbalance AKUN4
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
 
@@ -206,6 +208,8 @@ proxy-groups:
   - Loadbalance AKUN3
   - Loadbalance AKUN4
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
 
@@ -230,6 +234,8 @@ proxy-groups:
   - Loadbalance AKUN3
   - Loadbalance AKUN4
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
 
@@ -254,6 +260,8 @@ proxy-groups:
   - Loadbalance AKUN3
   - Loadbalance AKUN4
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
 
@@ -279,6 +287,8 @@ proxy-groups:
   - Loadbalance AKUN3
   - Loadbalance AKUN4
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
 
@@ -300,6 +310,8 @@ proxy-groups:
   - Ping-Akun3
   - Ping-Akun4 
   - Loadbalance ETH1 & USB0
+  - ETH1
+  - USB0
   - DIRECT
   url: 'http://cp.cloudflare.com/generate_204'
   interval: '300'
